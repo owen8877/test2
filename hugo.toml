@@ -1,4 +1,4 @@
 baseURL = 'https://test2.xdrd.me/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "mainroad"
+theme = 'github.com/owen8877/Mainroad'
