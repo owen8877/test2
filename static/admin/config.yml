@@ -2,6 +2,7 @@ backend:
   name: github
   repo: owen8877/test2
   base_url: https://sveltia-cms-auth.xdroid.workers.dev/
+  automatic_deployments: false
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
